@@ -15,3 +15,4 @@ mongoose.connection.on("error", err => {
 })
 mongoose.set("strictQuery", true)
 module.exports = connect
+
