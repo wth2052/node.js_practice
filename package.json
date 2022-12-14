@@ -1,0 +1,20 @@
+{
+  "name": "node.js_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wth2052/node.js_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wth2052/node.js_practice/issues"
+  },
+  "homepage": "https://github.com/wth2052/node.js_practice#readme"
+}
